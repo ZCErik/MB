@@ -1,6 +1,6 @@
-# flutter_course
+# Magic Baker 
 
-A new Flutter project.
+An app to buy online desserts.
 
 ## Getting Started
 
